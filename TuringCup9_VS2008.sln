@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TuringCup9", "TuringCup9\TuringCup9_VS2008.vcproj", "{192EEE8C-74FC-4BF9-B69F-9CAE4EEC8D21}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{192EEE8C-74FC-4BF9-B69F-9CAE4EEC8D21}.Debug|Win32.ActiveCfg = Debug|Win32
+		{192EEE8C-74FC-4BF9-B69F-9CAE4EEC8D21}.Debug|Win32.Build.0 = Debug|Win32
+		{192EEE8C-74FC-4BF9-B69F-9CAE4EEC8D21}.Release|Win32.ActiveCfg = Release|Win32
+		{192EEE8C-74FC-4BF9-B69F-9CAE4EEC8D21}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		VisualSVNWorkingCopyRoot = .
+	EndGlobalSection
+EndGlobal
