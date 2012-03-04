@@ -1,0 +1,3 @@
+./bin/TuringCup9.exe
+./inc/TuringCup9ClientAPI.h
+./lib/TuringCup9.lib
